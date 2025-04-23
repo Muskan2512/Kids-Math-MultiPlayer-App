@@ -1,0 +1,80 @@
+/* styles.css or your Tailwind config */
+.bg-image-home {
+  background-image: url('/image9.jpg'); /* Make sure this path is correct */
+  background-size: cover;
+  aspect-ratio: 22/9;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.bg-image-signup{
+  background-image: url('/image10.jpg'); /* Make sure this path is correct */
+  background-size: cover;
+  /* aspect-ratio: 26/9; */
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.bg-image-roman{
+  background-image: url('/image3.jpg'); /* Make sure this path is correct */
+  background-size: cover;
+  aspect-ratio: 16/9;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.bg-image-fruit{
+  background-image: url('/image2.jpg'); /* Make sure this path is correct */
+  background-size: cover;
+  aspect-ratio: 25/9;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.bg-image-number{
+  background-image: url('/image8.jpg'); /* Make sure this path is correct */
+  background-size: cover;
+  aspect-ratio: 16/9;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.bg-image-allGames{
+  background-image: url('/image6.jpg'); /* Make sure this path is correct */
+  background-size: cover;
+  /* aspect-ratio: 20/9; */
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.bg-canvas{
+  background-image: url('/image8.jpg'); /* Make sure this path is correct */
+  background-size: cover;
+  aspect-ratio: 16/9;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.bg-image2{
+  background-image: url('/image7.jpg'); /* Make sure this path is correct */
+  background-size: cover;
+  /* aspect-ratio: 22/18; */
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.bg-image1{
+  background-image: url('/image1.jpg'); /* Make sure this path is correct */
+  background-size: cover;
+  aspect-ratio: 16/9;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.bg-image2{
+  background-image: url('/image3.jpg'); /* Make sure this path is correct */
+  background-size: cover;
+  /* aspect-ratio: 16/9; */
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.bg-image11{
+  background-image: url('/image11.jpg'); /* Make sure this path is correct */
+  background-size: cover;
+  /* aspect-ratio: 16/9; */
+  background-position: center;
+  background-repeat: no-repeat;
+}
